@@ -1,32 +1,37 @@
 # 👋 Hi, I'm Ledio
 
-🎓 Computer Engineering BSc graduate  
-💻 Data Engineering | Backend Development | AI/ML Enthusiast  
-☁️ Interested in Cloud Technologies  
+**Computer Engineering BSc | Data Engineer | Backend & AI Specialist**
 
-I enjoy building scalable backend systems and working with data pipelines. My experience includes developing REST APIs, working with databases, and exploring cloud-based data solutions. I am particularly interested in the intersection between **data engineering and AI/ML systems**.
+I am a performance-driven engineer focused on building **scalable data architectures** and **Enterprise AI systems**. My experience ranges from optimizing high-throughput ETL pipelines on AWS to designing multi-agent LLM orchestrators.
 
-I completed a **6-month Data Engineer internship at Lightcast**, where I gained hands-on experience with data processing tools and modern data workflows.
+* 🚀 **Latest Project:** Built an Enterprise AI Agent Architecture using **LangChain4j**.
+* 🛠️ **Infrastructure:** Experienced in **AWS (EMR Serverless, Athena, SageMaker)** and **Snowflake**.
+* 🎓 **Background:** Computer Engineering graduate with a focus on high-concurrency systems and data enrichment.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack & Competencies
 
-| Category | Tools & Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Java, SQL (PostgreSQL/MySQL), Python, JavaScript |
-| **Data Engineering** | PySpark, ETL Pipelines, MongoDB, Snowflake |
-| **Backend & Cloud** | Spring Boot, Node.js, Docker, AWS (S3, EC2, Lambda, EMR, EMR Serverless, Athena) |
-| **DevOps & Tools** | Git, REST APIs, CI/CD, GitHub, AWS CodeCommit |
+| **Languages** | Python (Boto3, PySpark), Java, SQL, JavaScript |
+| **Data Engineering** | PySpark, Snowflake, AWS Glue/Athena, MongoDB, MySQL |
+| **Cloud & DevOps** | AWS (EMR Serverless, EC2, S3, SageMaker), Kubernetes, Docker, Git |
+| **AI & NLP** | LangChain4j, RAG, FastText, Jaccard Similarity, Multilingual Text Normalization |
 
 ---
 
-## 🔧 What I Like Building
+## 🏢 Professional Experience
 
-- RESTful APIs and backend services  
-- Data pipelines and data processing systems  
-- Cloud-based applications  
-- Projects involving data and AI  
+### **Data Engineering Intern | Lightcast**
+*Global Data Science Team*
+
+Collaborated on the design and implementation of Python and PySpark components for the **preprocessing and semantic enrichment** of large-scale global job posting datasets.
+
+* **Cloud Data Orchestration:** Developed ETL workflows extracting/loading data across **Amazon S3, Snowflake, and AWS Athena** using **Boto3**.
+* **NLP & ML Pipelines:** Implemented multilingual text normalization and automatic language detection using **FastText**. Built n-gram generation and **Jaccard similarity** logic for semantic classification.
+* **AI Integration:** Engineered a **NACE code assignment** system, comparing rule-based linguistic logic against ML-based predictions.
+* **Architecture & Strategy:** Conducted feasibility studies for migrating legacy Java/Spark implementations to **PySpark on AWS EMR Serverless**, focusing on cost-optimization and scalability.
 
 ---
 
