@@ -12,23 +12,12 @@ I completed a **6-month Data Engineer internship at Lightcast**, where I gained 
 
 ## 🚀 Tech Stack
 
-### Languages & Backend
-- Java  
-- SQL
-- Python  
-- JavaScript  
-
-### Frameworks & Tools
-- Spring Boot  
-- Node.js  
-- Git  
-- Docker  
-
-### Data & Cloud
-- PySpark  
-- MongoDB  
-- MySQL  
-- AWS  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java, SQL (PostgreSQL/MySQL), Python, JavaScript |
+| **Data Engineering** | PySpark, ETL Pipelines, MongoDB, Snowflake |
+| **Backend & Cloud** | Spring Boot, Node.js, Docker, AWS (S3, EC2, Lambda, EMR, EMR Serverless, Athena) |
+| **DevOps & Tools** | Git, REST APIs, CI/CD, GitHub, AWS CodeCommit |
 
 ---
 
@@ -38,6 +27,12 @@ I completed a **6-month Data Engineer internship at Lightcast**, where I gained 
 - Data pipelines and data processing systems  
 - Cloud-based applications  
 - Projects involving data and AI  
+
+---
+
+## 🔧 Featured Projects
+**RecNote** | _AI-Powered Audio Intelligence Platform_
+Developed an end-to-end application that leverages Large Language Models (LLMs) to transform live audio into structured knowledge. Features include high-accuracy speech-to-text transcription and a real-time summarization engine that extracts key action items and insights as the conversation happens.
 
 ---
 
