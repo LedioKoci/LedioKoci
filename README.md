@@ -39,6 +39,13 @@ Collaborated on the design and implementation of Python and PySpark components f
 **RecNote** | _AI-Powered Audio Intelligence Platform_
 Developed an end-to-end application that leverages Large Language Models (LLMs) to transform live audio into structured knowledge. Features include high-accuracy speech-to-text transcription and a real-time summarization engine that extracts key action items and insights as the conversation happens.
 
+**AI Agents System** | _Java, LangChain4j_
+* Designed a multi-agent architecture with a semantic routing orchestrator
+* Developed a Retrieval-Augmented Generation (RAG) agent using vector embeddings
+* Built intelligent agents capable of tool-calling for business workflows (e.g., billing operations)
+* Implemented state management and coordination logic across distributed agents
+* Integrated LLM-based components for intelligent decision-making and workflow automation
+
 ---
 
 ## 🌱 Currently Learning
